@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Ramesh
 - 👀 I’m interested in Data engineering, SD, Automation and Cyber Security 
-- 🌱 I’m currently learning Design Patterns
+- 🌱 I’m currently learning Gen-AI
 - 📫 Reach me -> [Twitter](https://twitter.com/rajesh_ramesh_)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
